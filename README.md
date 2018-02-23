@@ -1,0 +1,2 @@
+# Pozoriste
+Kupovina karata
