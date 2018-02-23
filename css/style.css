@@ -1,0 +1,11 @@
+body {
+    background: #fff url("../images/pozadina.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+table a span {
+	color: #d9534f !important;
+}
